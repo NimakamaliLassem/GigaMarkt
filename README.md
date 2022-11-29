@@ -7,6 +7,7 @@
 ### Log in
 ![WhatsApp Image 2022-10-16 at 4 34 59 PM](https://user-images.githubusercontent.com/94905245/196201062-854901d7-c985-43a9-9ce8-7351d35f75ca.jpeg)
 ### Email Verification
+![image_2022-11-29_15-18-24](https://user-images.githubusercontent.com/94905245/204527470-e421dd72-b862-486a-9ea7-3fe544cdf6fb.png)
 ![WhatsApp Image 2022-10-16 at 4 34 59 PM (1)](https://user-images.githubusercontent.com/94905245/196201074-61d966c3-077a-4f5d-a2b1-a5dd163d0ece.jpeg)
 
 ## Old UI
